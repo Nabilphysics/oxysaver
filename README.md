@@ -1,4 +1,4 @@
-# oxysaver
+# Oxysaver Research Paper
 OxySaver: highly conserving demand oxygen delivery system with increased throughput
 
 ## Abstract
